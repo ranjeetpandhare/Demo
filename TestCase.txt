@@ -1,0 +1,201 @@
+Run the program 
+
+1. Start Game -- enter 1 
+ ------------------------------------ 
+2. Exit Game -- enter 2 
+ -----------------------------------
+ 1
+ 
+  
+ select 1 normal mode 
+ select Mode ---? 
+
+1: Normal mode
+2: Low Card Joker
+3: High Card Joker
+4: Any Card Joker
+ 
+ 1
+ 
+ 1 mode seleted 
+ Number of Players( should be greater than 1 and less than 4) : 
+ 
+ 3
+ 
+ ------------------------------------------------------------------------------
+~~~~~~~~~~~~Game Started~~~~~~~~~~~ 
+------------------------------------------------------------------------------
+Player......... 1
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 
+
+1
+1 2 3 Select your card number in between them :
+
+ 3
+ 
+ new CARD [Card Number=TWO, Card Type=SPADE]
+new CARD [Card Number=TWO, Card Type=CLUB]
+new CARD [Card Number=KING, Card Type=HEARTS]
+original card number 
+2
+2
+13
+---------------------------------------------------------------------------
+
+Player......... 2
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 
+
+1
+
+1 2 3 Select your card number in between them :
+2
+new CARD [Card Number=THREE, Card Type=SPADE]
+new CARD [Card Number=ACE, Card Type=SPADE]
+new CARD [Card Number=KING, Card Type=DIAMOND]
+original card number 
+3
+14
+13
+---------------------------------------------------------------------------
+
+Player......... 3
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 1
+1 2 3 Select your card number in between them :
+1
+new CARD [Card Number=TWO, Card Type=HEARTS]
+new CARD [Card Number=KING, Card Type=HEARTS]
+new CARD [Card Number=KING, Card Type=HEARTS]
+original card number 
+2
+13
+13
+Sequence with Color 
+---------------------------------------------------------------------------
+
+Player 1 Score -> 0
+Player 2 Score -> 1
+Player 3 Score -> 0
+1
+------------------------------------------------------------------------------
+ ~~~~~~~~~~~~  winner is  ~~~~~~~~~~~~~~~~~~ :Player :- 2
+------------------------------------------------------------------------------
+............Game Finished..... please restart the game
+
+
+select 2 option Low card joker
+
+1. Start Game -- enter 1 
+ ------------------------------------ 
+2. Exit Game -- enter 2 
+ -----------------------------------
+1
+select Mode ---? 
+1: Normal mode
+2: Low Card Joker
+3: High Card Joker
+4: Any Card Joker
+2
+2 mode seleted 
+ Number of Players( should be greater than 1 and less than 4) : 
+2
+------------------------------------------------------------------------------
+~~~~~~~~~~~~Game Started~~~~~~~~~~~ 
+------------------------------------------------------------------------------
+Player......... 1
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 1
+1 2 3 Select your card number in between them :
+1
+new CARD [Card Number=SIX, Card Type=DIAMOND]
+new CARD [Card Number=THREE, Card Type=SPADE]
+new CARD [Card Number=ACE, Card Type=HEARTS]
+original card number 
+6
+3
+14
+Low card joker
+14
+3
+14
+---------------------------------------------------------------------------
+
+Player......... 2
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 1
+1 2 3 Select your card number in between them :
+2
+new CARD [Card Number=SIX, Card Type=HEARTS]
+new CARD [Card Number=QUEEN, Card Type=HEARTS]
+new CARD [Card Number=EIGHT, Card Type=DIAMOND]
+original card number 
+6
+12
+8
+Low card joker
+12
+12
+8
+---------------------------------------------------------------------------
+
+Player 1 Score -> 1
+Player 2 Score -> 0
+Low Card Joker mode 
+1
+------------------------------------------------------------------------------
+ ~~~~~~~~~~~~  winner is  ~~~~~~~~~~~~~~~~~~ :Player :- 1
+------------------------------------------------------------------------------
+............Game Finished..... please restart the game
+
+option 3 High card Joker selected 
+
+1. Start Game -- enter 1 
+ ------------------------------------ 
+2. Exit Game -- enter 2 
+ -----------------------------------
+1
+select Mode ---? 
+1: Normal mode
+2: Low Card Joker
+3: High Card Joker
+4: Any Card Joker
+3
+3 mode seleted 
+ Number of Players( should be greater than 1 and less than 4) : 
+1
+------------------------------------------------------------------------------
+~~~~~~~~~~~~Game Started~~~~~~~~~~~ 
+------------------------------------------------------------------------------
+Player......... 1
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 1
+1 2 3 Select your card number in between them :
+2
+new CARD [Card Number=QUEEN, Card Type=CLUB]
+new CARD [Card Number=FIVE, Card Type=SPADE]
+new CARD [Card Number=NINE, Card Type=CLUB]
+original card number 
+12
+5
+9
+High card joker
+5
+5
+9
+---------------------------------------------------------------------------
+
+Player......... 2
+1. display Cards available enter 1 
+2. Stop Game enter 2
+Please provide your option 1 or 2 : 
+
+
+
